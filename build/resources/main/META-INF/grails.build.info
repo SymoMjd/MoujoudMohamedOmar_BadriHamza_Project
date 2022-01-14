@@ -1,0 +1,6 @@
+#Sun, 09 Jan 2022 14:28:27 +0100
+
+info.app.version=0.1
+info.app.name=sources-enseignant
+grails.env=development
+info.app.grailsVersion=3.3.8
